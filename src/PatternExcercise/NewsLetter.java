@@ -1,4 +1,4 @@
-package XPExcercise;
+package PatternExcercise;
 
 import java.util.ArrayList;
 
